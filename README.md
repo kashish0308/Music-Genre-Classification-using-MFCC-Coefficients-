@@ -1,0 +1,2 @@
+# Music-Genre-Classification-using-MFCC-Coefficients-
+Designed and implemented music genre classification model on curated dataset of 115 audio files across 6 genres by extracting Mel-Frequency Cepstral Coefficients (MFCCs) and transformed over 10,000 time-series values per file into compact 120 dimensional feature vector using quantised co-occurrence matrix analysis and statistical texture features.
